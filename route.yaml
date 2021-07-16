@@ -11,8 +11,4 @@ spec:
   tls:
     termination: edge
     insecureEdgeTerminationPolicy: Redirect
-<<<<<<< HEAD
   wildcardPolicy: None
-=======
-  wildcardPolicy: None
->>>>>>> 115ec869f867815b7ab95495fdf56aa4db16cfb1
